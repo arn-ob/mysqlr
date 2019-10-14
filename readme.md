@@ -146,7 +146,7 @@ mysqlr.init({
 ..... other codes
 ```
 
-filename: searchQuery.js
+filename: searchQuery.js .   
 ```
 const mysqlr = require('mysqlr');
 
