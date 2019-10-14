@@ -132,7 +132,7 @@ mysqlr.query('SELECT * FROM test1').then(response => {
 
 ## Sample Code 2
 
-filename: start.js
+filename: start.js .  
 ```
 const mysqlr = require('mysqlr');
 
